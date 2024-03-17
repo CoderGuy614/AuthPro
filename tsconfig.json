@@ -1,6 +1,7 @@
 {
   "compilerOptions": {
     "jsx": "react",
+    "checkJs": true,
     /* Visit https://aka.ms/tsconfig to read more about this file */
 
     /* Projects */
@@ -128,6 +129,7 @@
     "src/**/*.spec.jsx",
     "src/**/*.d.ts",
     "auth-pro/src/amplify-ui-components/utils.ts",
-    "auth-pro/src/amplify-ui-components/studioTheme.ts"
+    "auth-pro/src/amplify-ui-components/studioTheme.ts",
+    "auth-pro/src/App.tsx"
   ]    
 }
